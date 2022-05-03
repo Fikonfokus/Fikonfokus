@@ -1,4 +1,4 @@
-👋 Hi, I’m @Fikonfokus
+👋 Hi, my name is Anton
 
 One day i got a note on my desk that said "Junior DBA" (╯°□°）╯︵ ┻━┻
 
