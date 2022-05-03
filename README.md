@@ -1,6 +1,7 @@
 👋 Hi, I’m @Fikonfokus
 
 One day i got a note on my desk that said "Junior DBA" (╯°□°）╯︵ ┻━┻
+
 And now i'm trying to live up to that 👌
 
 I'm currently learning how to build a MS SQL Server cluster 🤔
